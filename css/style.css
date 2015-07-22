@@ -656,6 +656,21 @@ nav ul li.active > a {
   background-color: #3f729b;
 }
 
+.socials a:hover i.fa.fa-google {
+  background-color: #178a56;
+}
+
+.socials a:hover i.fa.fa-weibo {
+  background-color: #dd4b39;
+}
+
+.socials a:hover i.fa.fa-github {
+  background-color: #353535;
+}
+
+.socials a:hover i.fa.fa-wechat {
+  background-color: #0fda2a;
+}
 
 /*Progress Bars*/
 

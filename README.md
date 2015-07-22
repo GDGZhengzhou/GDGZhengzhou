@@ -1,4 +1,2 @@
-# devfest2015
-Material Design Template for DevFest 2015 Season
-
-Demo you can find here: http://vg.am/devfest
+# GDGZhengzhou
+郑州GDG谷歌开发者社区官网
